@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bhavin Bhesaniya</h1>
 <h5 align="left"> Highly motivated and detail-oriented professional with a passion for cloud security and a proven track record of implementing robust security measures. Possesses strong hands-on technical expertise in cloud tools, vulnerability assessments, penetration testing (VAPT), and DevSecOps practices. Committed to safeguarding sensitive data and ensuring the highest level of protection for organizations' cloud-based assets.</h5>
+
 - 📫 How to reach me **bkbhesaniya11@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-bhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-bhesaniya" /> </p>
