@@ -1,91 +1,18 @@
-## Bhavin Bhesaniya: Cloud Enthusiast and Cybersecurity Expert
+<h1 align="center">Hi 👋, I'm Bhavin Bhesaniya</h1>
+<h3 align="center">Highly motivated and detail-oriented professional with a passion for cloud security and a proven track record of implementing robust security measures. Possesses strong hands-on technical expertise in cloud tools, vulnerability assessments, penetration testing (VAPT), and DevSecOps practices. Committed to safeguarding sensitive data and ensuring the highest level of protection for organizations' cloud-based assets.</h3>
 
-**Contact:**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-bhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-bhesaniya" /> </p>
 
-* Email: bkbhesaniya11@gmail.com
-* Location: Junagadh, Gujarat, India
-* LinkedIn: https://www.linkedin.com/in/bhavin-bhesaniya/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin-bhesaniya" alt="bhavin-bhesaniya" /></a> </p>
 
-**Summary:**
+- 📫 How to reach me **bkbhesaniya11@gmail.com**
 
-Highly motivated and detail-oriented professional with a passion for cloud security and a proven track record of implementing robust security measures. Possesses strong hands-on technical expertise in cloud tools, vulnerability assessments, penetration testing (VAPT), and DevOps practices. Committed to safeguarding sensitive data and ensuring the highest level of protection for organizations' cloud-based assets.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavin-bhesaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavin-bhesaniya/" height="30" width="40" /></a>
+</p>
 
-**Education:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-* **M.Sc. in Cybersecurity and Digital Forensics**, Rashtriya Raksha University, Lavad (CGPA: 8.35) - Mar 2019
-* **Bachelor of Computer Application (B.C.A.)**, S.S.S.D.I.I.T. College, Junagadh (CGPA: 8.42) - 2019–2022
-
-**Experience:**
-
-* **NOC Executive - Intern**, ECS Infotech Pvt Ltd., Ahmedabad (Oct 2023 - Nov 2023)
-    * Monitored VPS infrastructure, proactively addressing performance issues.
-    * Collaborated with cross-functional teams to troubleshoot network and system problems.
-
-**Technical Skills:**
-
-**Languages:**
-
-* Python
-* Java
-* SQL
-
-**Technologies:**
-
-* Linux
-* Windows
-* AWS (Certified Cloud Security Practitioner)
-* Git
-* GitHub Actions
-* Active Directory
-* Docker
-* Kubernetes
-* Terraform
-
-**Tools:**
-
-* Nmap
-* Wireshark
-* Burp Suite
-* Metasploit
-* Nessus
-* Sqlmap
-
-**Other Skills:**
-
-* Analytical/Problem Solving
-* Teamwork
-* Verbal and Written Communication
-* Troubleshooting
-
-**Projects:**
-
-1. **EKS Cluster Deployment with Terraform and Jenkins:**
-    * Designed and deployed EKS clusters using Terraform and Jenkins for automated infrastructure provisioning, enhancing scalability and reliability.
-2. **Leveraging Cloud Resources for Machine Learning-Based Spam Detection API:**
-    * Developed a Dockerized Django webapp deployed on AWS EC2 with a cloud-based API.
-    * Integrated a DevOps-enabled CI/CD pipeline for automated deployment.
-    * Implemented advanced security measures (Email Authentication, Rate Limiting, JWT Token).
-3. **Deployed Django Notes App on AWS EC2 Instance Using CI/CD Pipeline:**
-    * Streamlined development and deployment of a Django Notes App on AWS EC2 using CI/CD with AWS, GitHub, Jenkins, and Docker.
-4. **Quiz Desktop Application - Java:**
-    * Built a Java Quiz Desktop App with MVC architecture, Javamail-API for email, and MySQL for database.
-    * Implemented OTP Authentication and input validation for enhanced security and functionality.
-
-**Certifications:**
-
-* **Certified Cloud Security Practitioner (CCSP-AWS)**
-* **Certified AppSec Practitioner (CAP)**
-* **Cisco CCNA 200-301**
-* **AWS Cloud Quest Cloud Practitioner**
-* **Junior Pentester Learning (TryHackMe)**
-* **Practical Ethical Hacking (TCM Security)**
-* **Cyber Threat Intelligence (ArcX)**
-
-**Additional Notes:**
-
-* I am continuously learning and expanding my knowledge base in cloud security, DevOps, and related technologies.
-* I am eager to take on new challenges and contribute my skills to a team building innovative and secure cloud solutions.
-
-**Feel free to reach out to me for any queries or collaborations!**
-
-This is the content in readm.md format. Remember to customize it further with additional details and tailored language for your specific needs.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavin-bhesaniya&show_icons=true&locale=en&layout=compact" alt="bhavin-bhesaniya" /></p>
