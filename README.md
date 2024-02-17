@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-bhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-bhesaniya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin-bhesaniya" alt="bhavin-bhesaniya" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
