@@ -20,7 +20,7 @@ Highly motivated and detail-oriented professional seeking a challenging career i
 - **Others**: Analytical, Problem Solving, Team work, Verbal and Written Communication, Troubleshooting
 
 ## Certifications
-- Certified Cloud Security Practitioner AWS (CCSP-AWS) - SecOps
+- Certified Cloud Security Practitioner AWS (CCSP-AWS) - SecOps[https://drive.google.com/file/d/1XEwKoycZ1Hd_EypAh9eB1Wzd41LwrFPZ/view?usp=sharing](#)
 - Certified AppSec Practitioner(CAP) - SecOps
 - Cisco CCNA 200-301 course with Jeremy's IT Lab - Udemy
 - AWS Cloud Quest Cloud Practitioner - AWS
@@ -46,4 +46,4 @@ Highly motivated and detail-oriented professional seeking a challenging career i
 [![](https://visitcount.itsvg.in/api?id=Bhavin-Bhesaniya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/cyberbhavin)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cyberbhavin)
