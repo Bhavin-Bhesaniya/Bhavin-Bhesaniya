@@ -4,7 +4,7 @@
 Highly motivated and detail-oriented professional seeking a challenging career in cloud security. Utilizing strong technical expertise to safeguard sensitive data and implement robust security measures, ensuring the highest level of protection for organizations' cloud-based assets.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavin-bhesaniya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyber__coder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCPlgmuuOFytZh7YeJKxGXtQ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhavin-bhesaniya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyber__coder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPlgmuuOFytZh7YeJKxGXtQ) 
 
 ## Contact Information
 - Email: bkbhesaniya11@gmail.com
