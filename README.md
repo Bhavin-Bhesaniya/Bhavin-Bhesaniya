@@ -1,19 +1,50 @@
-<h1 align="left">Hi 👋, I'm Bhavin Bhesaniya</h1>
-<h5 align="left"> Highly motivated and detail-oriented professional with a passion for cloud security and a proven track record of implementing robust security measures. Possesses strong hands-on technical expertise in cloud tools, vulnerability assessments, penetration testing (VAPT), and DevSecOps practices. Committed to safeguarding sensitive data and ensuring the highest level of protection for organizations' cloud-based assets.</h5>
+# Bhavin Bhesaniya
 
-- 📫 How to reach me **bkbhesaniya11@gmail.com**
+## Contact Information
+- Email: bkbhesaniya11@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/bhavin-bhesaniya/](#)
+- GitHub: [https://github.com/Bhavin-Bhesaniya](#)
+- Tryhackme: [https://tryhackme.com/p/CyberBhavin](#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-bhesaniya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-bhesaniya" /> </p>
+## Summary
+Highly motivated and detail-oriented professional seeking a challenging career in cloud security. Utilizing strong technical expertise to safeguard sensitive data and implement robust security measures, ensuring the highest level of protection for organizations' cloud-based assets.
 
+## Education
+- **M.Sc. in Cybersecurity and Digital Forensics** (2022-2024), Rashtriya Raksha University, Gandhinagar
+- **Bachelor of Computer Applications (B.C.A.)** (2019 – 2022), S.S.S.D.I.I.T. College, Junagadh
+ - CGPA: 8.35
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavin-bhesaniya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavin-bhesaniya/" height="30" width="40" /></a>
-</p>
+## Experience
+- **NOC Executive - Intern** (Oct 2023 - Nov 2023), ECS Infotech Pvt Ltd., Ahmedabad
+ - Monitored VPS infrastructure, ensuring optimal performance and addressing any issues promptly.
+ - Collaborated with cross-functional teams to troubleshoot and resolve network and system issues.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
+## Skills
+- **Languages**: Python, Java, SQL, Bash Scripting
+- **Technologies**: Linux, Windows, AWS, Git, Github Actions, Active Directory, Docker, Kubernetes, Terraform
+- **VAPT Tools**: Nmap, Wireshark, Burpsuite, Metasploit, Nessus, Sqlmap
+- **Others**: Analytical, Problem Solving, Team work, Verbal and Written Communication, Troubleshooting
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavin-bhesaniya&show_icons=true&locale=en&layout=compact" alt="bhavin-bhesaniya" /></p>
+## Projects
+- **DevSecOps with Kubernetes: AWS-Based Infrastructure with Security and Monitoring**
+ - CI/CD pipeline with Jenkins for a microservices application, incorporating SonarQube for Static Application Security Testing (SAST) and Trivy for Dynamic Application Security Testing (DAST).
+ - Software Composition Analysis (SCA) using OWASP Dependency-Check.
+ - Utilized Prometheus and Grafana for monitoring and visualizing the application's performance and security metrics.
+- **Kubernetes Deployment on AWS EKS with Terraform and Jenkins**
+ - Orchestrated AWS EKS using Terraform, integrated Jenkins for automated CI/CD pipelines.
+ - Enhanced security through Kubernetes RBAC and AWS IAM integration.
+- **Secure Serverless Architecture with AWS Lambda@Edge and CloudFront**
+ - Developed a secure serverless architecture leveraging AWS Lambda@Edge and CloudFront.
+ - Implemented AWS Lambda Authorizer and AWS Cognito for API endpoint security.
+- **Leveraging Cloud Resources for Machine Learning-Based Spam Detection API**
+ - Developed a Dockerize Django webapp for seamless deployment on AWS EC2 with a cloud-based API.
+ - Integrated the app through a DevOps-focused CI/CD pipeline for automated deployment and implemented advanced security measures.
+
+## Certifications
+- Certified Cloud Security Practitioner AWS (CCSP-AWS) - SecOps
+- Certified AppSec Practitioner(CAP) - SecOps
+- Cisco CCNA 200-301 course with Jeremy's IT Lab - Udemy
+- AWS Cloud Quest Cloud Practitioner - AWS
+- Junior Pentester Learning - Tryhackme
+- Practical Ethical Hacking - TCM Security
+- Cyber Threat Intelligence - ArcX
