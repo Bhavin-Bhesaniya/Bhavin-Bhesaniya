@@ -20,7 +20,7 @@ Highly motivated and detail-oriented professional seeking a challenging career i
 - **Others**: Analytical, Problem Solving, Team work, Verbal and Written Communication, Troubleshooting
 
 ## Certifications
-- Certified Cloud Security Practitioner AWS (CCSP-AWS) - SecOps[https://drive.google.com/file/d/1XEwKoycZ1Hd_EypAh9eB1Wzd41LwrFPZ/view?usp=sharing](#)
+- Certified Cloud Security Practitioner AWS (CCSP-AWS) - SecOps: [https://drive.google.com/file/d/1XEwKoycZ1Hd_EypAh9eB1Wzd41LwrFPZ/view?usp=sharing](#)
 - Certified AppSec Practitioner(CAP) - SecOps
 - Cisco CCNA 200-301 course with Jeremy's IT Lab - Udemy
 - AWS Cloud Quest Cloud Practitioner - AWS
